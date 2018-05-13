@@ -9,8 +9,8 @@
     margin: auto;
     margin-bottom: 2em;
     align-content: center;
-    width:  100px;
-    height: 100px;
+    max-width: 40%;
+    max-height: 40%;
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
